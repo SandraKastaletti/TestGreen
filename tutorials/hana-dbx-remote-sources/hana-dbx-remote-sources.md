@@ -1,5 +1,5 @@
 ---
-title: Daria Access Remote Sources with SAP HANA Database Explorer
+title: Use SAP HANA federation capabilities
 description: Use SAP HANA federation capabilities to query data from other SAP HANA and SAP HANA Data Lake databases using SAP HANA Smart Data Access (SDA).
 auto_validation: true
 time: 10
