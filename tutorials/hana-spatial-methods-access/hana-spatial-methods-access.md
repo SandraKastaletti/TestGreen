@@ -1,5 +1,5 @@
 ---
-title: DariaD Access methods
+title: Spatial access methods help you to retrieve properties of geometries
 description: Spatial access methods help you to retrieve properties of geometries
 auto_validation: true
 time: 15
