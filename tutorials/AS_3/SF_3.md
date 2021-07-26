@@ -91,7 +91,7 @@ service CatalogService {
  
 [OPTION END]
  
-![Relative with space](tutorials/devms1879/cat.png)
+![Relative with space](tutorials/cat.png)
 ----
 
 ## Troubleshooting
