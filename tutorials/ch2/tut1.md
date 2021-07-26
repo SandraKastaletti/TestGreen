@@ -1,5 +1,5 @@
 ---
-title: Daria 免费试用中文版 SAP云ERP系统
+title: Thirdth
 description: 本报告重点列举了企业如何借助 SAP 先进的工具成功迁移至 SAP S/4HANA。这类工具包括 SAP Business Scenario Recommendations、SAP Transformation Navigator 和 SAP Readiness Check 等。
 auto_validation: true
 time: 10
