@@ -421,7 +421,7 @@ A dialog will be shown in the design studio to read value from user.
 
 [OPTION END]
  
-![Relative with space](tutorials/devms1879/cat.png)
+![Relative with space](tutorials/SF_3/cat.png)
 ----
 
 ## Troubleshooting
