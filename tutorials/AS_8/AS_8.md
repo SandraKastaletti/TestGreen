@@ -1,7 +1,7 @@
 ---
 title: Second
 description: ADMINTOOL final
-tags: [tutorial>advanced, tutorial:product/sapHana, tutorial>community]
+tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
 time: 33 min
 ---
