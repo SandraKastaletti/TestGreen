@@ -3,7 +3,7 @@ title: Call a remote function module
 description: Call a remote function module located in an on-premise system, such as a SAP S/4HANA System, from the ABAP Environment
 auto_validation: true
 time: 60
-tags: [ tutorial>advanced, products>sap-mobile-cards, tutorial>license]
+tags: [ tutorial>advanced, products>sap-mobile-cards, tutorial>license, tutorial>community]
 primary_tag: products>sap-mobile-cards
 ---
 
