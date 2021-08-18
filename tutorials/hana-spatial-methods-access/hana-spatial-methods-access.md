@@ -4,7 +4,7 @@ description: Spatial access methods help you to retrieve properties of geometrie
 auto_validation: true
 time: 15
 primary_tag: products>sap-hana
-tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, products>sap-hana\,-express-edition]
+tags: [  tutorial>beginner, topic>big-data, topic>sql, products>sap-hana, products>sap-hana\,-express-edition, tutorial>community]
 ---
 
 ## Prerequisites  
