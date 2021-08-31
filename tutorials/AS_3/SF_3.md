@@ -1,8 +1,8 @@
 ---
 title: First Tutorial
 description: Links, tips, tricks and more for getting started with the SAP HANA, express edition Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-primary_tag: tutorial:product/mobile
-tags: [  tutorial>how-to, tutorial>beginner, tutorial>intermediate]
+primary_tag: tutorial>mobile
+tags: [tutorial>how-to, tutorial>beginner, tutorial>intermediate]
 time: 66
 
 ---
