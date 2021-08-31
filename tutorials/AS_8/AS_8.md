@@ -1,5 +1,5 @@
 ---
-title: Tutorial Semaphore Test2
+title: Tutorial Semaphore Test22
 description: ADMINTOOL final
 tags: [tutorial>advanced]
 primary_tag: tutorial>mobile
