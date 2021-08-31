@@ -1,8 +1,8 @@
 ---
-title: Second Tutorial
+title: Tutorial Semaphore Test2
 description: ADMINTOOL final
 tags: [tutorial>advanced]
-primary_tag: tutorial:product/mobile
+primary_tag: tutorial>mobile
 time: 33 min
 ---
 
