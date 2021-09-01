@@ -1,7 +1,7 @@
 ---
 title: Tutorial Semaphore Test22
 description: ADMINTOOL final
-tags: [tutorial>advanced, topic>ABAP Development]
+tags: [tutorial>advanced, topic>ABAP Development, region>iran]
 primary_tag: tutorial>mobile
 time: 33 min
 ---
