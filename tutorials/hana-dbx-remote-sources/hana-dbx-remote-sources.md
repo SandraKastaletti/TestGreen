@@ -5,14 +5,14 @@ auto_validation: true
 time: 10
 tags: [ tutorial>beginner, products>sap-hana, products>sap-hana,-express-edition, tutorial>community]
 primary_tag: products>sap-hana-cloud
+parser: v2
 ---
 
 ## Prerequisites
  - Two SAP HANA databases and an SAP HANA Data Lake instance
  - You have completed the first 3 tutorials in this group.
 
-## Details
-### You will learn
+## You will learn
   - How to use SAP HANA Smart Data Access (SDA) to access data in other data sources
   - How to create remote connections and virtual tables
 
@@ -28,7 +28,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 ---
 
-[ACCORDION-BEGIN [Step 1: ](Create a tourist review table in SAP HANA Cloud)]
+## Create a tourist review table in SAP HANA Cloud
 
 1. From the SAP HANA Cloud Cockpit, open the SAP HANA database explorer.
 
@@ -63,7 +63,6 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
     ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
 
 [DONE]
-[ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 2: ](Create a remote source from SAP HANA, express edition to SAP HANA Cloud)]
 
