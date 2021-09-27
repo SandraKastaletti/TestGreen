@@ -16,6 +16,7 @@ parser: v2
   - How to use SAP HANA Smart Data Access (SDA) to access data in other data sources
   - How to create remote connections and virtual tables
 
+## Intro
 Virtual tables point to data stored in another database.  Federated queries join local and virtual tables.
 
 To illustrate these concepts, a table will be created in an SAP HANA Cloud or Data Lake trial that contains fictitious review data from some of the top tourist sites near a given hotel.  There is likely a correlation between hotel stays and the desire for customers to visit nearby tourist attractions or restaurants.  The review data that is stored in SAP HANA Cloud or SAP HANA Data Lake will be remotely accessed from an SAP HANA, express edition database.
