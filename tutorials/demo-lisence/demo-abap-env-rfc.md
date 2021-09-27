@@ -65,9 +65,9 @@ First, you need to connect your ABAP on-premise system to a Neo subaccount by me
   - **Password**
   - **Location ID** = Optional here. However, it is mandatory if you want to connect several Cloud Connectors to your subaccount. This can be any text, e.g. your initials
 
-  ![Image depicting step1g-create-subacc](step1g-create-subacc.png)
-  ![Image depicting step1f-choose-subacc](step1f-choose-subacc.png)
-  ![Image depicting step1b-neo-tech-name ](step1b-neo-tech-name.png)
+  !![Image depicting step1g-create-subacc](step1g-create-subacc.png)
+  !![Image depicting step1f-choose-subacc](step1f-choose-subacc.png)
+  !![Image depicting step1b-neo-tech-name ](step1b-neo-tech-name.png)
 
 Your configuration should now look like this:
 
