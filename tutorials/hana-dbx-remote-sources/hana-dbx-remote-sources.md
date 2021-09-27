@@ -65,6 +65,8 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 [DONE]
 
+---
+
 ### Create a remote source from SAP HANA, express edition to SAP HANA Cloud
 
 1. To create a remote source from SAP HANA, express edition to SAP HANA Cloud, open the SAP HANA database explorer from the SAP HANA, express edition.
