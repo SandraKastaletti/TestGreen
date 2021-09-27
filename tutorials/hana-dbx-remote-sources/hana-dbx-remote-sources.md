@@ -64,7 +64,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 [DONE]
 
-[ACCORDION-BEGIN [Step 2: ](Create a remote source from SAP HANA, express edition to SAP HANA Cloud)]
+### Create a remote source from SAP HANA, express edition to SAP HANA Cloud
 
 1. To create a remote source from SAP HANA, express edition to SAP HANA Cloud, open the SAP HANA database explorer from the SAP HANA, express edition.
 
@@ -98,9 +98,8 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
     Additional details can be found at [CREATE REMOTE SOURCE Statement](https://help.sap.com/viewer/c1d3f60099654ecfb3fe36ac93c121bb/cloud/en-US/20d48343751910149985a2c925e12190.html).
 
 [DONE]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 3: ](Create a virtual table and execute a federated query)]
+### Create a virtual table and execute a federated query
 In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud.   This can be visualized as follows:
 
   ![cloud and on-premise remote connection](cloud_onprem_connection.png)
@@ -174,9 +173,8 @@ In this step, a virtual table named `vt_tourist_reviews` will be created in SAP 
 A benefit of a virtual table is that there is no data movement.  There is only one location where the data is persisted.  As seen above, this can lead to longer query times when accessing remote data.
 
 [DONE]
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [Step 4: ](SAP HANA Data Lake)]
+### SAP HANA Data Lake
 
 [SAP HANA Data Lake](https://help.sap.com/viewer/product/SAP_HANA_DATA_LAKE/cloud/en-US) can be used to store large amounts of data that is not accessed frequently.  The following steps create the table `tourist_reviews` in SAP HANA Data Lake and access the table from the associated SAP HANA Cloud instance and from an SAP HANA, express edition database.
 
@@ -277,6 +275,5 @@ A benefit of a virtual table is that there is no data movement.  There is only o
 Congratulations!   You have now used remote sources to access data running on a different SAP HANA instance and on a SAP HANA Data Lake.
 
 [DONE]
-[ACCORDION-END]
 
 ---
