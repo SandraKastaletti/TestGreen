@@ -16,6 +16,8 @@ parser: v2
   - How to use SAP HANA Smart Data Access (SDA) to access data in other data sources
   - How to create remote connections and virtual tables
 
+---
+
 ## Intro
 
 Virtual tables point to data stored in another database.  Federated queries join local and virtual tables.
