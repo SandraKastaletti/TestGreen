@@ -1,5 +1,5 @@
 ---
-title: Tutorial Test4
+title: Tutorial Test4Parser
 description: Use SAP HANA federation capabilities to query data from other SAP HANA and SAP HANA Data Lake databases using SAP HANA Smart Data Access (SDA).
 auto_validation: true
 time: 10
