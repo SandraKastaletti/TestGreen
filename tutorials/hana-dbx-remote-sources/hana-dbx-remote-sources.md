@@ -28,7 +28,6 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 >Note that the SAP HANA Cloud trial is limited to creating one SAP HANA database per trial account.
 
----
 
 ### Create a tourist review table in SAP HANA Cloud
 
@@ -278,4 +277,3 @@ Congratulations!   You have now used remote sources to access data running on a 
 
 [DONE]
 
----
