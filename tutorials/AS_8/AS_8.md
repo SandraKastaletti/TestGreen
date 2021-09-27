@@ -4,6 +4,7 @@ description: ADMINTOOL final
 tags: [tutorial>advanced, topic>ABAP Development]
 primary_tag: tutorial>mobile
 time: 33 min
+parser: v2
 ---
 
 ## Prerequisites  
