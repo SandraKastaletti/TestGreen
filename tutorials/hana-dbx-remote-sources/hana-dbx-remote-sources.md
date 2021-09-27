@@ -5,7 +5,6 @@ auto_validation: true
 time: 10
 tags: [ tutorial>beginner, products>sap-hana, products>sap-hana\,-express-edition, tutorial>community]
 primary_tag: products>sap-hana-cloud
-parser: v2
 ---
 
 ## Prerequisites
