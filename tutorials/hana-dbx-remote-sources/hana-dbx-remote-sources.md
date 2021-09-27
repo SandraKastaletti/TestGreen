@@ -65,7 +65,8 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
    <!-- border --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
 
-<!-- border --> !![My image](mypicture.png)
+<!-- border --> 
+Picture: ![My image](mypicture.png)
 
 ---
 
