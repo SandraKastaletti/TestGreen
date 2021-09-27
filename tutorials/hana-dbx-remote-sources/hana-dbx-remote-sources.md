@@ -67,9 +67,10 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 <!-- border -->              ![My image](mypicture.png)
 
+---
+
 [DONE]
 
----
 ---
 
 ### Create a remote source from SAP HANA, express edition to SAP HANA Cloud
