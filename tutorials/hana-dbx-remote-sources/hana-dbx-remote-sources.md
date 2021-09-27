@@ -29,7 +29,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 ---
 
-## Create a tourist review table in SAP HANA Cloud
+### Create a tourist review table in SAP HANA Cloud
 
 1. From the SAP HANA Cloud Cockpit, open the SAP HANA database explorer.
 
