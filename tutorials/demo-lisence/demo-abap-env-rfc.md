@@ -1,6 +1,6 @@
 ---
 title: Tutorial Test3333
-description: Call a remote function module located in an on-premise system, such as a SAP S/4HANA System, from the ABAP Environment
+description: Call a remote function module located in an on-premise system
 auto_validation: true
 time: 45
 tags: [tutorial>how-to, tutorial>beginner, tutorial>intermediate, programming tool>API, topic>Java, topic>Best Run, programming tool>DevOps]
