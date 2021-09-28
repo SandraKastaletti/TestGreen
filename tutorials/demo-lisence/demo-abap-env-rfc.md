@@ -1,5 +1,5 @@
 ---
-title: Tutorial Test3
+title: Tutorial Test3333
 description: Call a remote function module located in an on-premise system, such as a SAP S/4HANA System, from the ABAP Environment
 auto_validation: true
 time: 45
@@ -20,6 +20,8 @@ primary_tag: products>sap-mobile-cards
   - How to open a secure tunnel connection between your SAP Cloud Platform ABAP Environment and an on-premise SAP System, e.g. SAP S/4HANA
   - How to create a destination service instance with HTTP and RFC connections
   - How to create a communication arrangement to integrate this destination service
+  - How to create a communication arrangement to integrate SAP Cloud Connector
+  - How to test the connection using an ABAP handler class
   - How to create a communication arrangement to integrate SAP Cloud Connector
   - How to test the connection using an ABAP handler class
 
