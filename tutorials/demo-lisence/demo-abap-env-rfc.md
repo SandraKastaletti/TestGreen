@@ -1,5 +1,5 @@
 ---
-title: New Call a remote function module
+title: AANew Call a remote function module
 description: Call a remote function module located in an on-premise system
 auto_validation: true
 time: 45
