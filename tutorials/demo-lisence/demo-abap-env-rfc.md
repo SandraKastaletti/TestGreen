@@ -5,6 +5,7 @@ auto_validation: true
 time: 45
 tags: [tutorial>how-to, tutorial>beginner, tutorial>intermediate, programming tool>API, topic>Java, topic>Best Run, programming tool>DevOps]
 primary_tag: products>sap-mobile-cards
+keywords: SAP BTP, ABAP environment, Node.js, SAP S/4HANA
 ---
 
 ## Prerequisites
