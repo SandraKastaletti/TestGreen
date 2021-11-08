@@ -4,7 +4,7 @@ time: 10
 tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community]
 primary_tag: products>sap-hana-cloud
 parser: v2
-keywords: sap, service, HANA, DEVELOPERSTEST, SAP Business Scenario
+keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario
 ---
 #          Use SAP HANA federation capabilities Updated
 <!-- description --> Use SAP HANA federation capabilities to query data from other SAP HANA and SAP HANA Data Lake databases using SAP HANA Smart Data Access (SDA)
