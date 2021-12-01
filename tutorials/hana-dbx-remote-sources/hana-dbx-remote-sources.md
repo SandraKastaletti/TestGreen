@@ -2,7 +2,9 @@
 auto_validation: true
 time: 10
 tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community]
-primary_tag: products>sap-hana-cloud
+primary_tag: topic>Business-Development
+Open left rail for additional features
+ 
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario
 ---
