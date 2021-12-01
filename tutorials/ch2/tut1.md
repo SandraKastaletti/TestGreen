@@ -4,7 +4,7 @@ description: 本报告重点列举了企业如何借助 SAP 先进的工具成�
 auto_validation: true
 time: 10
 tags: [ tutorial>beginner, products>sap-cloud-platform--sap-hana-service, products>sap-web-ide]
-primary_tag: products>sap-hana
+primary_tag: topic>sql
 author_name: Abdel DADOUCHE egergeg
 ---
 
