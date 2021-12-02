@@ -1,7 +1,7 @@
 ---
 auto_validation: true
 time: 10
-tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community]
+tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community, products>SAPUI5]
 primary_tag: topic>Business-Development
 Open left rail for additional features
  
