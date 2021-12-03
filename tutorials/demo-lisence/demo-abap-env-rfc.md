@@ -3,8 +3,8 @@ title: AANew Call a remote function module
 description: Call a remote function module located in an on-premise system
 auto_validation: true
 time: 45
-tags: [tutorial>how-to, tutorial>beginner, tutorial>intermediate, programming tool>API, topic>User-Interface]
-primary_tag: products>SAPUI5
+tags: [tutorial>how-to, tutorial>beginner, tutorial>intermediate, programming tool>API]
+primary_tag: topic>User-Interface
 ---
 
 ## Prerequisites
