@@ -8,8 +8,8 @@ Open left rail for additional features
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario
 ---
-#          Use SAP HANA federation capabilities Updated
-<!-- description --> Use SAP HANA federation capabilities to query data from other SAP HANA and SAP HANA Data Lake databases using SAP HANA Smart Data Access (SDA)
+#          A TEST alt label tag
+<!-- description --> Use 
 
 ## Prerequisites
  - Two SAP HANA databases and an SAP HANA Data Lake instance
