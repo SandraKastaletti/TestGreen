@@ -50,6 +50,11 @@ There are two problems when setting up connectivity between the Cloud Platform A
 ![Image depicting overview](overview.png)
 
 ---
+[Click to download xlsx] (Book1.xlsx)
+
+[Click to download mp3] (Jingle-bells-ringtone.mp3)
+
+[Click to download sql] (JOINS.sql)
 
 [ACCORDION-BEGIN [Step 1: ](Configure SAP Cloud Connector)]
 First, you need to connect your ABAP on-premise system to a Neo subaccount by means of SAP Cloud Connector.
@@ -75,8 +80,24 @@ Your configuration should now look like this:
 
   ![Image depicting step1-check-scc](step1-check-scc.png)
 
+
+[Click to download doc] (New Microsoft Word Document - Copy.doc)
+
+[Click to download xml] (New Microsoft Word Document - Copy.xml)
+
+[Click to download docx] (New Microsoft Word Document.docx)
+
+[Click to download pdf] (New Microsoft Word Document.pdf)
+
 [DONE]
 [ACCORDION-END]
+
+[Click to download txt] (New Text Document.txt)
+
+[Click to download png] (access40.png)
+
+[Click to download mp4] (New Year - 100050.mp4)
+
 
 [ACCORDION-BEGIN [Step 2: ](Add On-Premise System)]
 1. In your sub-account, **Display Name**, choose **Cloud to On-Premise > Access Control**.
