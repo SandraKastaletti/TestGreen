@@ -104,6 +104,8 @@ Your configuration should now look like this:
 
 [Click to download png] (access40.png)
 
+[Click to download json] (resp.json)
+
 [Click to download mp4] (New Year - 100050.mp4)
 
 
