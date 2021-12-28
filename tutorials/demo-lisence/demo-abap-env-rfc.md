@@ -64,6 +64,8 @@ There are two problems when setting up connectivity between the Cloud Platform A
 
 [Click to download pdf](New Microsoft Word Document.pdf)
 
+[Click to download pdf](NewMicrosoftWord.docx)
+
 [ACCORDION-BEGIN [Step 1: ](Configure SAP Cloud Connector)]
 First, you need to connect your ABAP on-premise system to a Neo subaccount by means of SAP Cloud Connector.
 
