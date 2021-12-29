@@ -73,6 +73,18 @@ Picture: ![My image](mypicture.png)
 
 ---
 
+
+[Click to download xlsx] (Book1.xlsx)
+
+[Click to download mp3] (Jinglebellsringtone.mp3)
+
+[Click to download sql] (JOINS.sql)
+
+[Click to download doc] (1.doc)
+
+[Click to download json] (resp.json)
+
+
 [DONE]
 
 ---
