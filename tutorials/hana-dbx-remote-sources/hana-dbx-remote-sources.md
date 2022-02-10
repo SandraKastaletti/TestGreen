@@ -148,7 +148,7 @@ In this step, a virtual table named `vt_tourist_reviews` will be created in SAP 
 
     Press the **Create** button.
 
-    <!-- border; size:446px --> ![Create virtual table](createVirtualTable.png)
+    ![Create virtual table](createVirtualTable.png)
 
     >Alternatively, the virtual table can also be created with the SQL statement below.
     >
