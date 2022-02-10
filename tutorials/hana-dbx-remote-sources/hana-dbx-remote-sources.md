@@ -8,7 +8,7 @@ Open left rail for additional features
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario
 ---
-#          Tutorial for parser test
+#          Tutorial for parser test chanched
 <!-- description --> Use 
 
 ## Prerequisites
@@ -66,10 +66,8 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
     SELECT * FROM HOTEL.TOURIST_REVIEWS;
     ```
 
-   <!-- border, size:300px --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
+   <!-- border, size:200px --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
 
-<!-- border --> 
-Picture: ![My image](mypicture.png)
 
 ---
 
@@ -111,14 +109,14 @@ Picture: ![My image](mypicture.png)
 
     >If the above command fails, one reason might be that an allowlist has been set on the SAP HANA Cloud instance.  This can be seen by clicking on the edit icon in the SAP HANA Cloud Cockpit.
     >
-    >![allowlist](allowlist.png)
+    > <!-- border, size:100px --> ![allowlist](allowlist.png)
     >---
 
     >The public root certificate of the certificate authority (CA) that signed the SAP HANA Cloud instance's server certificate is required in the `sslTrustStore` parameter.  For more information, see [Secure Communication Between SAP HANA Cloud and JDBC/ODBC Clients](https://help.sap.com/viewer/c82f8d6a84c147f8b78bf6416dae7290/cloud/en-US/dbd3d887bb571014bf05ca887f897b99.html).
 
 2. After executing the create remote source SQL statement, the result can be seen in the **Remote Sources** folder, as shown below.  You may need to press the refresh button.
 
-    ![remote sources](remote_source.png)
+   <!-- border, size:400px --> ![remote sources](remote_source.png)
 
     Additional details can be found at [CREATE REMOTE SOURCE Statement](https://help.sap.com/viewer/c1d3f60099654ecfb3fe36ac93c121bb/cloud/en-US/20d48343751910149985a2c925e12190.html).
 
