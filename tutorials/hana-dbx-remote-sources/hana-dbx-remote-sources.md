@@ -38,9 +38,6 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 1. From the SAP HANA Cloud Cockpit, open the SAP HANA database explorer.
 
-TEST TEST TEST
-
-    <!-- border; size:650px --> ![Test](test.PNG)
 
 2. Execute the following SQL statements to create the `tourist_reviews` table.
 
@@ -70,8 +67,10 @@ TEST TEST TEST
     SELECT * FROM HOTEL.TOURIST_REVIEWS;
     ```
 
-   <!-- border --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
+    <!-- border --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
 
+
+    <!-- border; size:650px --> ![Test](test.png)
 
 ---
 
