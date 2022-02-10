@@ -66,7 +66,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
     SELECT * FROM HOTEL.TOURIST_REVIEWS;
     ```
 
-   <!-- border, size:50px --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
+   <!--border, size:50px--> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
 
 
 ---
