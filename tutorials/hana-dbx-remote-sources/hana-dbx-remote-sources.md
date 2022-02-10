@@ -160,7 +160,7 @@ In this step, a virtual table named `vt_tourist_reviews` will be created in SAP 
 
 5. Open the virtual table `VT_TOURIST_REVIEWS` and notice that its type is virtual.
 
-   <!-- border; size:500px --> ![table editor](table_editor.png)
+   <!-- border; size:700px --> ![table editor](table_editor.png)
 
 6. Perform queries against the local tables and the remote table, and perform a federated query that contains both local and remote tables.
 
