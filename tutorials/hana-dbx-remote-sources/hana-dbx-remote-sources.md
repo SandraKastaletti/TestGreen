@@ -109,7 +109,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
     >If the above command fails, one reason might be that an allowlist has been set on the SAP HANA Cloud instance.  This can be seen by clicking on the edit icon in the SAP HANA Cloud Cockpit.
     >
-    > <!-- border; size:299px --> ![allowlist](allowlist.png)
+    > <!-- border; size:100px --> ![allowlist](allowlist.png)
     >---
 
     >The public root certificate of the certificate authority (CA) that signed the SAP HANA Cloud instance's server certificate is required in the `sslTrustStore` parameter.  For more information, see [Secure Communication Between SAP HANA Cloud and JDBC/ODBC Clients](https://help.sap.com/viewer/c82f8d6a84c147f8b78bf6416dae7290/cloud/en-US/dbd3d887bb571014bf05ca887f897b99.html).
