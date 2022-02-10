@@ -125,7 +125,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 ### Create a virtual table and execute a federated query
 In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud.   This can be visualized as follows:
 
-    <!-- border; size:600px --> ![cloud and on-premise remote connection](cloud_onprem_connection.png)
+    <!-- border --> ![cloud and on-premise remote connection](cloud_onprem_connection.png)
 
 
 1. Open the SAP HANA database explorer from the SAP HANA, express edition.  If needed, create the HOTEL schema and a user who can access the schema.
