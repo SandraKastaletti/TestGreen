@@ -8,7 +8,7 @@ Open left rail for additional features
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario
 ---
-#          A TEST alt label tag
+#          Tutorial for parser test
 <!-- description --> Use 
 
 ## Prerequisites
