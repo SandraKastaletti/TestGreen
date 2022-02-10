@@ -33,14 +33,14 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 >Note that the SAP HANA Cloud trial is limited to creating one SAP HANA database per trial account.
 
-TEST TEST TEST
-
-    <!-- border; size:650px --> ![Test](test.PNG)
-
 
 ### Create a tourist review table in SAP HANA Cloud
 
 1. From the SAP HANA Cloud Cockpit, open the SAP HANA database explorer.
+
+TEST TEST TEST
+
+    <!-- border; size:650px --> ![Test](test.PNG)
 
 2. Execute the following SQL statements to create the `tourist_reviews` table.
 
