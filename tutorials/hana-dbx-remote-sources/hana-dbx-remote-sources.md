@@ -5,7 +5,7 @@ tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-
 primary_tag: products>SAP-Business-Technology-Platform
 Open left rail for additional features
  
-parser: v2
+
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario
 ---
 #          Tutorial for parser test changed
