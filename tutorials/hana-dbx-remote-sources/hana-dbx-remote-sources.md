@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 30
+time: 60
 tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community, tutorial>license, products>SAPUI5]
 primary_tag: products>SAP-Business-Technology-Platform
 Open left rail for additional features
