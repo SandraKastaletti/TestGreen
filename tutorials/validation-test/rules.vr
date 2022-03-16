@@ -1,0 +1,331 @@
+[VALIDATE_1]
+###Rule
+exact-match
+###Question
+autotest extract-match rule:
+###Match
+autotest extract-match rule
+[VALIDATE_1]
+
+[VALIDATE_2]
+###Rule
+regex-substring
+###Question
+autotest regex-sub-string:
+test1
+TEst2
+###Match
+autotest regex - substring
+[VALIDATE_2]
+
+[VALIDATE_3]
+###Rule
+regex-begins-with
+###Question
+autotest regex-begins-with:
+###Match
+autotest regex-begins-with rule 
+[VALIDATE_3]
+
+[VALIDATE_4]
+###Rule
+regex-with-id-exact-match
+###Question
+regex-with-id-exact-match
+Enter URL to your application //[id] will be changed to uid
+https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
+###Match
+https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
+[VALIDATE_4]
+
+[VALIDATE_5]
+###Rule
+http-status-check
+###Question
+with 404
+EX: https://github.com/SAPDocuments/How-To-Contribution/issues/new?title=Feedback%20on%20Tutorial:%20How%20to%20download%20and%20install%20the%20HANA%20Eclipse%20plugin
+###Match
+404
+[VALIDATE_5]
+
+[VALIDATE_6]
+###Rule
+http-status-check
+###Question
+with 301 или 401
+Ex: https://api-onedx.find400.sap.com/api/v1/search
+###Match
+301, 401 
+[VALIDATE_6]
+
+[VALIDATE_7]
+###Rule
+http-status-check
+###Question
+with 200
+Ex: https://www.google.com
+###Match
+200
+[VALIDATE_7]
+
+[VALIDATE_8]
+###Rule
+multiple-choice
+###Question
+The text of question for multi-choice
+###Match
+[x] Answer 1
+[ ] Answer 2
+[ ] Answer 3
+[x] Answer 4
+[VALIDATE_8]
+
+[VALIDATE_9]
+###Rule
+single-choice
+###Question
+The text of question for single-choice
+###Match
+[ ] Answer 1
+[ ] Answer 2
+[x] Answer 3
+[ ] Answer 4
+[VALIDATE_9]
+
+[VALIDATE_10]
+###Rule
+multiple-choice
+###Question
+The text of question for multi-choice #2
+###Match
+[x] Answer 1
+[ ] Answer 2
+[ ] Answer 3
+[x] Answer 4
+[VALIDATE_10]
+
+[VALIDATE_11]
+###Rule
+single-choice
+###Question
+The text of question for single-choice #2
+###Match
+[ ] Answer 1
+[ ] Answer 2
+[x] Answer 3
+[ ] Answer 4
+[VALIDATE_11]
+
+[VALIDATE_12]
+###Rule
+multiple-choice
+###Question
+The text of question for multi-choice #3
+###Match
+[x] Answer 1
+[ ] Answer 2
+[ ] Answer 3
+[x] Answer 4
+[VALIDATE_12]
+
+[VALIDATE_13]
+###Rule
+single-choice
+###Question
+The text of question for single-choice #3
+###Match
+[ ] Answer 1
+[ ] Answer 2
+[x] Answer 3
+[ ] Answer 4
+[VALIDATE_13]
+
+[VALIDATE_14]
+###Rule
+exact-match
+###Question
+q
+###Match
+one letter in the question
+[VALIDATE_14]
+
+[VALIDATE_15]
+###Rule
+exact-match
+###Question
+0
+###Match
+one digit in the question
+[VALIDATE_15]
+
+[VALIDATE_16]
+###Rule
+exact-match
+###Question
+one letter in the match
+###Match
+R
+[VALIDATE_16]
+
+[VALIDATE_17]
+###Rule
+exact-match
+###Question
+one digit in the match
+###Match
+5
+[VALIDATE_17]
+
+[VALIDATE_18]
+###Rule
+exact-match
+###Question
+#
+###Match
+one special symbol in the question
+[VALIDATE_18]
+
+[VALIDATE_19]
+###Rule
+exact-match
+###Question
+many special symbols in the match
+###Match
+!@#$%^&*(){}_+-=~/<>|",?
+[VALIDATE_19]
+
+[VALIDATE_20]
+###Rule
+exact-match
+###Question
+very long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long question!
+###Match
+wtf?
+[VALIDATE_20]
+
+[VALIDATE_21]
+###Rule
+exact-match
+###Question
+Q
+###Match
+one letter in the question
+[VALIDATE_21]
+
+[VALIDATE_22]
+###Rule
+exact-match
+###Question
+5
+###Match
+one digit in the question
+[VALIDATE_22]
+
+[VALIDATE_23]
+###Rule
+exact-match
+###Question
+one another letter in the match
+###Match
+r
+[VALIDATE_23]
+
+[VALIDATE_24]
+###Rule
+exact-match
+###Question
+one another digit in the match
+###Match
+0
+[VALIDATE_24]
+
+[VALIDATE_25]
+###Rule
+exact-match
+###Question
+$
+###Match
+one special symbol in the question
+[VALIDATE_25]
+
+[VALIDATE_26]
+###Rule
+exact-match
+###Question
+many another special symbols in the match
+###Match
+!@#$%^&*(){}_+-=~/<>|",?
+[VALIDATE_26]
+
+[VALIDATE_27]
+###Rule
+exact-match
+###Question
+very another long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long question!
+###Match
+wtf?
+[VALIDATE_27]
+
+[VALIDATE_28]
+###Rule
+exact-match-precise
+###Question
+autotest extract-match-precise rule:
+###Match
+autotest extract-match-precise rule
+[VALIDATE_28]
+
+[VALIDATE_29]
+
+###Rule
+regex
+
+###Question
+^https:\/\/account.hanatrial.ondemand.com\/cockpit\/.*\/\w\d+trial\/
+
+###Match
+^https:\/\/account.hanatrial.ondemand.com\/cockpit\/.*\/\w\d+trial\/
+
+[VALIDATE_29]
+
+[VALIDATE_30]
+
+###Rule
+regex
+
+###Question
+Regex -> ^#?([a-f0-9]{6}|[a-f0-9]{3})$
+Should match:#a3c113 Shouldn't match:#4d82h4
+
+###Match
+^#?([a-f0-9]{6}|[a-f0-9]{3})$
+
+[VALIDATE_30]
+
+[VALIDATE_31]
+
+###Rule
+regex
+
+###Question
+Regex -> ^[a-z0-9-]+$
+Should match:my-title-here Shouldn't match:my_title_here
+
+###Match
+^[a-z0-9-]+$
+
+[VALIDATE_31]
+
+[VALIDATE_32]
+
+###Rule
+regex
+
+###Question
+Regex -> ^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$
+Should match:john@doe.com Shouldn't match:john@doe.something
+
+###Match
+^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$
+
+[VALIDATE_32]
