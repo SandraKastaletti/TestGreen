@@ -27,7 +27,7 @@ Virtual tables point to data stored in another database.  Federated queries join
 
 To illustrate these concepts, a table will be created in an SAP HANA Cloud or Data Lake trial that contains fictitious review data from some of the top tourist sites near a given hotel.  There is likely a correlation between hotel stays and the desire for customers to visit nearby tourist attractions or restaurants.  The review data that is stored in SAP HANA Cloud or SAP HANA Data Lake will be remotely accessed from an SAP HANA, express edition database.
 
-For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Data Integration (SDI), consult [Connecting SAP HANA Cloud to Remote Data Sources](https://help.sap.com/viewer/db19c7071e5f4101837e23f06e576495/cloud/en-US/afa3769a2ecb407695908cfb4e3a9463.html) and [Data Access with SAP HANA Cloud](https://help.sap.com/viewer/f9c5015e72e04fffa14d7d4f7267d897/cloud/en-US/7791e61775f949d9989eafc443158cdb.html).
+For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Data Integration (SDI), consult [Connecting SAP HANA Cloud to Remote Data Sources](https://help.sap.com/viewer/db19c7071e5f4101837e23f06e576495/cloud/en-US/afa3769a2ecb407695908cfb4e3a9463.html) and [Data Access with SAP HANA Cloud](https://help.sap.com/viewer/f9c5015e72e04fffa14d7d4f7267d897/cloud/en-US/7791e61775f949d9989eafc443158cdb.html)
 
 >Note that this tutorial requires two SAP HANA databases and an SAP HANA Data Lake to complete.  The examples are shown using an SAP HANA, express edition database connecting to an SAP HANA Cloud trial database.  It is not necessary to complete this tutorial to continue to the next tutorial in this group.  
 
