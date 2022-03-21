@@ -5,8 +5,8 @@ primary_tag: topic>mobile
 tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tutorial>beginner]
 qrcode: true
 time: 600
-author_profile: https://github.com/ksAutotests
-author_name: Dadada
+creator_profile: https://github.com/ksAutotests
+creator_name: Dadada
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner 
