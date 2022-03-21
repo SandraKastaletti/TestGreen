@@ -5,7 +5,9 @@ primary_tag: topic>mobile
 tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tutorial>beginner]
 qrcode: true
 time: 600
-creator_profile: https://github.com/ksAutotests
+author_profile: https://github.com/ksAutotests
+author_name: ksAutotests
+creator_profile: https://github.com/Oleksandra2
 creator_name: Test T.
 ---
 ## Prerequisites  
