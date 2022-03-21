@@ -6,7 +6,7 @@ tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tu
 qrcode: true
 time: 600
 creator_profile: https://github.com/ksAutotests
-creator_name: Dadada
+creator_name: Test T.
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner 
