@@ -113,20 +113,4 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
  
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 15](one digit in the question)] 
-  
- [VALIDATE_15] 
- 
-[ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 31](regex)] 
-  
- [VALIDATE_31] 
- 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 32](regex)] 
-  
- [VALIDATE_32] 
- 
-[ACCORDION-END]
