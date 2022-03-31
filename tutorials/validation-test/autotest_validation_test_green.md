@@ -101,16 +101,4 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [STEP 13](single-choice #3)] 
-  
- [VALIDATE_13] 
- 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 14](one letter in the question)] 
-  
- [VALIDATE_14] 
- 
-[ACCORDION-END]
-
 
