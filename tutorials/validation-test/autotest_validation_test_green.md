@@ -9,6 +9,7 @@ author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 creator_profile: https://github.com/Oleksandra2
 creator_name: Test T.
+parser: v2
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner 
@@ -29,11 +30,7 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 ### Create a virtual table and execute a federated query
 In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud.
 
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
-   
-[VALIDATE_1]
- 
- [ACCORDION-END]
+### Extra match rule
  
  [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
 [VALIDATE_2]
