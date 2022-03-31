@@ -81,15 +81,3 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [STEP 10](multi-choice #2)] 
-  
- [VALIDATE_10] 
- 
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 11](single-choice #2)] 
-  
- [VALIDATE_11] 
- 
-[ACCORDION-END]
