@@ -32,26 +32,15 @@ In this step, a virtual table named `vt_tourist_reviews` will be created in SAP 
 
 ### Extra match rule
  
- [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
-[VALIDATE_2]
-
- [ACCORDION-END]
+### Regex Sub-string
 
 ### Create a virtual table and execute a federated query
 In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud.
  
-  [ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
- [VALIDATE_4]
- 
- [ACCORDION-END]
+### Regex with id Exact Match
  
 ### Create a virtual table and execute a federated query
 In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud. 
 
-  [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
-  
- [VALIDATE_5] 
- 
- [ACCORDION-END]
-
+### http-status-check 404
 
