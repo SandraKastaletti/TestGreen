@@ -25,6 +25,10 @@ Details
 ### You will learn  
 Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.    
 
+
+### Create a virtual table and execute a federated query
+In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud.
+
 [ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
    
 [VALIDATE_1]
@@ -35,47 +39,22 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 [VALIDATE_2]
 
  [ACCORDION-END]
- 
-  [ACCORDION-BEGIN [STEP 3](Regex begins with)] 
- [VALIDATE_3]
- 
- [ACCORDION-END]
+
+### Create a virtual table and execute a federated query
+In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud.
  
   [ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
  [VALIDATE_4]
  
  [ACCORDION-END]
  
- 
+### Create a virtual table and execute a federated query
+In this step, a virtual table named `vt_tourist_reviews` will be created in SAP HANA, express edition. This will enable access to the `tourist_reviews` table that was created in SAP HANA Cloud. 
+
   [ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
   
  [VALIDATE_5] 
  
  [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 6](http-status-check 301, 401)] 
-  
- [VALIDATE_6] 
- 
-[ACCORDION-END]
 
-
-
-[ACCORDION-BEGIN [STEP 7](http-status-check 200)] 
-  
- [VALIDATE_7] 
- 
-[ACCORDION-END]
-
-[ACCORDION-BEGIN [STEP 8](multi-choice)] 
-  
- [VALIDATE_8] 
- 
-[ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 9](single-choice)] 
-  
- [VALIDATE_9] 
- 
-[ACCORDION-END]
