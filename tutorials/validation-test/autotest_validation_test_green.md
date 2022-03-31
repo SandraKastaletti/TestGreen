@@ -79,5 +79,3 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
  [VALIDATE_9] 
  
 [ACCORDION-END]
-
-
