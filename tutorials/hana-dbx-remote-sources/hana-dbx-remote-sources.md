@@ -147,7 +147,7 @@ In this step, a virtual table named `vt_tourist_reviews` will be created in SAP 
 
     Check the `TOURIST_REVIEWS` checkbox and press the **Create Virtual Object(s)** button.
 
-    <!-- border; size:299px --> ![create remote table](remote_table.png)
+    <!-- border; size:550px --> ![create remote table](remote_table.png)
 
 4. Set the **Object Name** to be `VT_TOURIST_REVIEWS` and the **Schema** to be **`HOTEL`**.
 
