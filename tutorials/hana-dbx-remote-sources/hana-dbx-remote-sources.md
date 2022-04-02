@@ -1,6 +1,6 @@
 ---
 auto_validation: true
-time: 30
+time: 20
 tags: [ tutorial>advanced, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community, tutorial>license, products>SAPUI5]
 primary_tag: products>SAP-Business-Technology-Platform
 Open left rail for additional features
@@ -8,13 +8,13 @@ creator_name: Daria
 creator_profile: https://github.com/darkina
  
 parser: v2
-keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario
+keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, kokoko
 ---
 #         Accsess Tutorial for parser test changed Create Your First ABAP Console Application long title
 <!-- description --> Use 
 
 ## Prerequisites
- - Two SAP HANA databases and an SAP HANA Data Lake instance
+ - Two SAP HANA databases and an SAP HANA Data Lake instance 13333
  - You have completed the first 3 tutorials in this group.
 
 ## You will learn
