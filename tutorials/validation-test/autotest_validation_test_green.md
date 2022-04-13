@@ -2,7 +2,7 @@
 title: Validation form for Test Green newly updated 
 description: autotests description
 primary_tag: topic>mobile
-tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tutorial>beginner, technical>trials]
+tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tutorial>beginner]
 qrcode: true
 time: 600
 author_profile: https://github.com/ksAutotests
@@ -11,6 +11,7 @@ creator_profile: https://github.com/Oleksandra2
 creator_name: Test T.
 parser: v2
 ---
+# test test
 
 ## Prerequisites  
  - **Proficiency:** Beginner 
