@@ -2,7 +2,7 @@
 title: Validation form for Test Green newly updated 
 description: autotests description
 primary_tag: topic>mobile
-tags: [topic>User-Experience, tutorial>community, software-product>Analytics, technical>trials]
+tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tutorial>beginner, technical>trials]
 qrcode: true
 time: 600
 author_profile: https://github.com/ksAutotests
