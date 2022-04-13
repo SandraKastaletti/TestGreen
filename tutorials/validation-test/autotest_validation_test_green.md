@@ -1,5 +1,5 @@
 ---
-
+title:
 description: autotests description
 primary_tag: topic>mobile
 tags: [topic>User-Experience, tutorial>community, software-product>Analytics, tutorial>beginner]
@@ -11,7 +11,6 @@ creator_profile: https://github.com/Oleksandra2
 creator_name: Test T.
 parser: v2
 ---
-# title
 
 ## Prerequisites  
  - **Proficiency:** Beginner 
