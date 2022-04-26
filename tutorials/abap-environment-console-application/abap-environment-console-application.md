@@ -7,6 +7,7 @@ tags: [  tutorial>beginner, topic>abap-development, software-product>sap-busines
 time: 5
 author_name: Merve Temel
 author_profile: https://github.com/mervey45
+keywords: downloadable files 
 ---
 
 ## Prerequisites  
