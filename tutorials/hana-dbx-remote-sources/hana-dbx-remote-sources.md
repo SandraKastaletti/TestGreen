@@ -169,7 +169,7 @@ In this step, a virtual table named `vt_tourist_reviews` will be created in SAP 
 
 6. Perform queries against the local tables and the remote table, and perform a federated query that contains both local and remote tables.
 
-    ```SQL[1, 3, 4]
+    ```SQL[2, 4]
     SELECT * FROM HOTEL.RESERVATION;
     SELECT * FROM HOTEL.CUSTOMER;
     SELECT * FROM HOTEL.VT_TOURIST_REVIEWS;
