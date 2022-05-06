@@ -98,7 +98,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
      Right-click on **Remote Sources** and select **Add Remote Source**.  
 
-     <!-- border; size:800px -->![Add remote source](add_remote_source.png)
+     <!-- border; size:700px -->![Add remote source](add_remote_source.png)
 
     Alternatively, in a SQL console, enter the SQL statement below after adjusting the `ServerNode`.  
 
