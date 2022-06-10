@@ -36,7 +36,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 >Note that the SAP HANA Cloud trial is limited to creating one SAP HANA database per trial account.
 
 
-### Create a tourist review table in SAP HANA Cloud
+### Create a remote source from SAP HANA, express edition to SAP HANA Cloud SAP HANA Cloud
 
 1. From the SAP HANA Cloud Cockpit, open the SAP HANA database explorer.
 
