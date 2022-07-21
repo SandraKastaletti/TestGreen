@@ -43,7 +43,7 @@ Virtual tables point to data stored in another database.  Federated queries join
     
 3. Replace strings (these commands have been adapted from the standard [Luigi React example](https://github.com/SAP/luigi/blob/master/scripts/setup/react.sh).) Note that you may get a warning such as `event not found`, but this can safely be ignored. Copy and paste the following:
 
-    ```Shell
+    ```Shell [2,5,7,10,12]
     sed "s/const HtmlWebpackPlugin = require('html-webpack-plugin');/const HtmlWebpackPlugin = require('html-webpack-plugin');const CopyWebpackPlugin = require('copy-webpack-plugin');/g" config/webpack.config.js > config/webpack.config.tmp.js && mv config/webpack.config.tmp.js config/webpack.config.js
 
     sed "s/new HtmlWebpackPlugin(/new CopyWebpackPlugin([\
