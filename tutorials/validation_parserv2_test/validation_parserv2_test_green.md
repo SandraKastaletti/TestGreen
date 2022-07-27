@@ -47,7 +47,7 @@ Virtual tables point to data stored in another database.  Federated queries join
     sed "s/const HtmlWebpackPlugin = require('html-webpack-plugin');/const HtmlWebpackPlugin = require('html-webpack-plugin');const CopyWebpackPlugin = require('copy-webpack-plugin');/g" config/webpack.config.js > config/webpack.config.tmp.js && mv config/webpack.config.tmp.js config/webpack.config.js
 
     sed "s/new HtmlWebpackPlugin(/new CopyWebpackPlugin([\
-    {context: 'public', to: 'index.html', from: 'index.html'  },\
+    {context: ### 'public', to: 'index.html', from: 'index.html'  },\
     {context: 'node_modules\/@luigi-project\/core',to: '.\/luigi-core',from: {glob: '**',dot: true}}],\
     {ignore: ['.gitkeep', '**\/.DS_Store', '**\/Thumbs.db'],debug: 'warning'\
     }),\
@@ -77,7 +77,7 @@ Virtual tables point to data stored in another database.  Federated queries join
     sed 's/"scripts": {/"scripts": {\
     \    "buildConfig":"webpack --config webpack.config.js",/1' package.json > p.tmp.json && mv p.tmp.json package.json
 
-    echo '{
+    echo ### '{
         "globals": {
             "Luigi": "readonly"
         }
