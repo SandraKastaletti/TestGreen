@@ -32,8 +32,7 @@ Virtual tables point to data stored in another database.  Federated queries join
 ### Create package
 
 1. Create a new package for this tutorial, by choosing **New > ABAP Package**.
-
-Name your role collection MyHANAApp. Then go into edit mode on the role collection. Use the value help for the Role. Use the Application Identifier to find your service instance (myhanaapp!#####). Select the role and press Add
+Name your package (my_package#####)
 
     <!-- border --> ![step1a-new-package](step1a-new-package.png)
 
