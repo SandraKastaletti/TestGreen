@@ -76,7 +76,7 @@ Name your package (my_package#####)
     };">webpack.config.js
 
     sed 's/"scripts": {/"scripts": {\
-    \    "buildConfig":"webpack --config webpack.config.js",/1' package.json > p.tmp.json && mv p.tmp.json package.json
+    \    "buildConfig":#####"webpack --config webpack.config.js",/1' package.json > p.tmp.json && mv p.tmp.json package.json
 
     echo ### '{
         "globals": {
