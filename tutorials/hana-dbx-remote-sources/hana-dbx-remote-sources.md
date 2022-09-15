@@ -14,11 +14,13 @@ keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, kokoko
 <!-- description --> Use 
 
 ## Prerequisites
+
  - **Proficiency:** Beginner
  - Two SAP HANA databases and an SAP HANA Data Lake instance 13333
  - You have completed the first 3 tutorials in this group.
 
 ## You will learn
+
   - **Proficiency:** Beginner
   - How to use SAP HANA Smart Data Access (SDA) to access data in other data sources
   - How to create remote connections and virtual tables
