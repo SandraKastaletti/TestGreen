@@ -12,15 +12,12 @@ parser: v2
 keywords: validation, parser v2
 ---
 
-#                     Title Title from the Tutorial body
-<!-- description -->         Description from the Tutorial body
-
 ## You will learn  
-Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.  
+Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, #you will connect that destination to your local application.  
 
 ## Prerequisites  
  - **Proficiency:** Beginner 
- - **Web IDE** If you do not have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
+ - **Web IDE** If you do not have the Web IDE open, follow these steps: <!-- test --> [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
  - **Tutorials:** This tutorial is part of a series. The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 
 
