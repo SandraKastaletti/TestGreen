@@ -31,7 +31,7 @@ Virtual tables point to data stored in another database.  Federated queries join
 
 ### Create package
 
-1. Create a new package for this tutorial, by choosing **New > ABAP Package**.
+1. Create a new package for this tutorial, # by choosing **New > ABAP Package**.
 Name your package (my_package#####)
 
     <!-- border --> ![step1a-new-package](step1a-new-package.png)
