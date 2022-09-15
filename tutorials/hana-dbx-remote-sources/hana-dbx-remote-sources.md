@@ -14,10 +14,12 @@ keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, kokoko
 <!-- description --> Use 
 
 ## Prerequisites
+ - **Proficiency:** Beginner
  - Two SAP HANA databases and an SAP HANA Data Lake instance 13333
  - You have completed the first 3 tutorials in this group.
 
 ## You will learn
+  - **Proficiency:** Beginner
   - How to use SAP HANA Smart Data Access (SDA) to access data in other data sources
   - How to create remote connections and virtual tables
 
@@ -40,7 +42,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 1. From the SAP HANA Cloud Cockpit, open the SAP HANA database explorer.
 
-
+ - **Proficiency:** Beginner
 2. Execute the following SQL statements to create the `tourist_reviews` table.
 
     >If needed, first create a schema and user.
