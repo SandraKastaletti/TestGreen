@@ -2,15 +2,15 @@
 auto_validation: true
 time: 20
 tags: [ tutorial>advanced, products>sap-hana, topic>ABAP-Development, topic>big-data, tutorial>community, tutorial>license, products>SAPUI5]
-primary_tag: products>SAP-Business-Technology-Platform
+primary_tag: topic>api
 Open left rail for additional features
-creator_name: Daria
+creator_name: New test
 creator_profile: https://github.com/darkina
  
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, kokoko
 ---
-#         Accsess Tutorial for parser test changed Create Your First ABAP Console Application long title 2 upd
+#         Accsess Tutorial for parser test changed Create Your First ABAP Console Application long title Updated
 <!-- description --> Use 
 
 ## Prerequisites
