@@ -6,7 +6,7 @@ tags: [ tutorial>beginner, topic>javascript]
 primary_tag: topic>user-interface
 ---
 
-# Introduction to Luigi Test Green2 UPDATED
+# Introduction to Luigi Test Green2 UPDATED upd
 <!-- description --> Learn about the basic architecture and terminology of the Luigi micro-frontend framework, and learn what you will build in the next tutorial steps.
 
 ## You will learn
