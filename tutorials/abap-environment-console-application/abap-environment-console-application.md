@@ -1,7 +1,7 @@
 ---
 parser: v2
 auto_validation: true
-primary_tag: products>cloud
+primary_tag: topic>cloud
 tags: [  tutorial>beginner, topic>abap-development, software-product>sap-business-technology-platform, software-product>SAP-Mobile-Platform-SDK, software-product-function>sap-hana-cloud\,-sap-hana-database, tutorial>community]
 time: 5
 author_name: Merve Temel
