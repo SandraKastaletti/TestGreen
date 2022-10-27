@@ -107,7 +107,7 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
 2. In a SQL console connected to the HANA Cloud instance, execute the following SQL to create a table named `tourist_reviews` and populate it with a few rows in SAP HANA Data Lake.
 
-    ```SQL
+    ```SQL[1, 3-5]
     CALL SYSRDL#CG.REMOTE_EXECUTE('
     BEGIN
         CREATE TABLE TOURIST_REVIEWS (
