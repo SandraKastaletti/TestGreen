@@ -39,7 +39,7 @@ In this exercise, we will modify the code of procedure `get_po_header_data`  so 
 
 4. The completed code should be similar to this.
 
-    ```SQLCRIPT
+    ```SQLCRIPT[1-3, 6, 8]
     PROCEDURE "get_po_header_data"(
              OUT EX_PO_CREATE_CNT TABLE(
                CREATE_CNT INTEGER,
