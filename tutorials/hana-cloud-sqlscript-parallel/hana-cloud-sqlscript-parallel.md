@@ -2,12 +2,12 @@
 parser: v2
 author_name: Rich Heilman
 author_profile: https://github.com/rich-heilman
-primary_tag: products>sap-hana
+primary_tag: products>SAP-Launchpad-service
 tags: [  tutorial>intermediate, products>sap-hana, products>sap-hana-cloud, products>sap-business-application-studio]   
 time: 15
 ---
 
-# Parallel Processing and Parameters Test Green2 upd
+# Parallel Processing and Parameters Test Green2 updated 11 11 22
 <!-- description --> Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 
 ## Prerequisites  
