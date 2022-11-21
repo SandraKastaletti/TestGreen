@@ -38,7 +38,7 @@ For more information, see:
 ### Open the ABAP Development Tools (ADT) 
 
 Open the ADT and change to the ABAP perspective, using the menu.
- <!-- border; size:200px -->
+ <!-- border; size:200px --> 
  ![adt-abap-menu](adt-abap-menu.png)
 
 And select **ABAP** and click **Open**.
