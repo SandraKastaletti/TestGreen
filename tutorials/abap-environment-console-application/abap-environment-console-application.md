@@ -102,7 +102,7 @@ Or select the icon.
 ### Create ABAP package
 
   1. Right-click on the `ZLOCAL` and select **New** > **ABAP Package** from the context menu.
-
+      <!-- border; size:500px -->
       ![Add ABAP package](package.png)
 
   2. Provide the required information and move on with **Next**.
