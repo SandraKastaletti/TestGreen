@@ -7,7 +7,7 @@ tags: [  tutorial>intermediate, products>sap-hana, products>sap-hana-cloud, prod
 time: 15
 ---
 
-# Parallel Processing and Parameters Test Green2 updated 11 11 22
+# Parallel Processing and Parameters Test Green2 updated 11 11 22 upd
 <!-- description --> Leverage SQLScript in stored procedures, user defined functions, and user defined libraries.
 
 ## Prerequisites  
