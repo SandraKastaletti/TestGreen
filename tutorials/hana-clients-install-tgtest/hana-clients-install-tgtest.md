@@ -1,5 +1,5 @@
 ---
-title: Install the SAP HANA Client Test Green added new Tutorial to repo_2 upd 2
+title: Install the SAP HANA Client Test Green added new Tutorial to repo_2 upd 3
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
