@@ -1,10 +1,11 @@
 {
   "my-tutorials-repo":{
-    "name":"TestGreen"
-  }
-}
-{
-  "my-tutorials-repo":{
-    "name":"Tutorials_Alyona"
+    "name":"notAssatrua"
+  },
+    "TestGreen":{
+    "name":"Oleksandra2"
+  },
+    "Tutorials_Alyona":{
+    "name":"AlyonSh"
   }
 }
