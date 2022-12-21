@@ -2,7 +2,7 @@
 title: Selectively Move Data Between In-Memory and Extended Tables Test Green Pop-over One Copy tags test
 description: Move data between in-memory and extended tables. Set connection property values.
 auto_validation: true
-primary_tag: topic>sap-mentors
+primary_tag: programming-tool>abap-extensibility
 tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-studio, topic>big-data, software-product>sap-process-control ]
 ---
 ## Prerequisites
