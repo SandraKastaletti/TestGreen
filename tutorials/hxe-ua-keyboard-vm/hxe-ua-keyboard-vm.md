@@ -2,7 +2,7 @@
 parser: v2
 author_name: John Currie
 author_profile: https://github.com/JCurrie27
-primary_tag: products>sap-hana\,-express-edition
+primary_tag: 	software-product>sap-big-data-services
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 time: 5
 ---
