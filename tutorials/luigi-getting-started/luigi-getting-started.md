@@ -2,7 +2,7 @@
 parser: v2
 auto_validation: true
 time: 5
-tags: [ tutorial>beginner, software-product>enhanced-security-issuance-management]
+tags: [ tutorial>beginner, programming-tool>python]
 primary_tag: topic>javascript
 ---
 
