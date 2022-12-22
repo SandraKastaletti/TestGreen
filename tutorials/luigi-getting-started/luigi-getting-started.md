@@ -3,7 +3,7 @@ parser: v2
 auto_validation: true
 time: 5
 tags: [ tutorial>beginner, topic>javascript]
-primary_tag: topic>user-interface
+primary_tag: software-product>enhanced-security-issuance-management
 ---
 
 # Introduction to Luigi Test Green2 UPDATED upd
