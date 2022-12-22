@@ -2,7 +2,7 @@
 parser: v2
 auto_validation: true
 time: 5
-tags: [ tutorial>beginner, topic>javascript]
+tags: [ tutorial>beginner, topic>javascript, software-product>sap-retail-execution-for-android]
 primary_tag: software-product>enhanced-security-issuance-management
 ---
 
