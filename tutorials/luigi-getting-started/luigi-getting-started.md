@@ -3,7 +3,7 @@ parser: v2
 auto_validation: true
 time: 5
 tags: [ tutorial>beginner, programming-tool>python]
-primary_tag: topic>javascript
+primary_tag: software-product-function>ewm---interfaces
 ---
 
 # Introduction to Luigi Test Green2 UPDATED upd
