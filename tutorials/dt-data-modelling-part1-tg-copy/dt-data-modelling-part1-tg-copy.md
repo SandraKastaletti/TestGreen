@@ -2,8 +2,8 @@
 title: Adding Analytic Privileges and the SAP HANA Modeler Perspective Test Green Pop-over Five NEW added
 description: Understanding the various types of Information Views used in SAP HANA to create analytical reports.
 auto_validation: true
-primary_tag: topic>android
-tags: [ tutorial>beginner, topic>big-data, topic>sql ]
+primary_tag: topic>sql
+tags: [ tutorial>beginner, topic>big-data ]
 ---
 
 ## Prerequisites
