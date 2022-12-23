@@ -1,8 +1,8 @@
 ---
 auto_validation: true
 time: 20
-tags: [ tutorial>advanced, products>sap-hana, topic>ABAP-Development, topic>big-data, tutorial>community, tutorial>license, products>SAPUI5]
-primary_tag: products>SAP-Fiori
+tags: [ tutorial>advanced, topic>big-data, tutorial>community, tutorial>license ]
+primary_tag: topic>ABAP-Development
 creator_name: New test
 creator_profile: https://github.com/darkina
  
