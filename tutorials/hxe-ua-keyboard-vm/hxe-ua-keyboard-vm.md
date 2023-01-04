@@ -33,7 +33,7 @@ Power on (or click *Play* on) your SAP HANA 2.0, express edition VM.
 ![hxe2_vm_start_0](hxe2_vm_start_0.png)
 
 
-### Introduce Change the keyboard layout if your laptop doesn't use an English (US) keyboard
+### Introduction Change the keyboard layout if your laptop doesn't use an English (US) keyboard
 
 
 The system prompts you to either change the VM keyboard, or accept the default English (US) QWERTY keyboard. Enter `Y` to change the keyboard or `N` to use the default.
