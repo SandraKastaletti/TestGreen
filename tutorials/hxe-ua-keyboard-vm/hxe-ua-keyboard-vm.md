@@ -33,7 +33,7 @@ Power on (or click *Play* on) your SAP HANA 2.0, express edition VM.
 ![hxe2_vm_start_0](hxe2_vm_start_0.png)
 
 
-### Change the keyboard layout if your laptop doesn't use an English (US) keyboard
+### Introduce Change the keyboard layout if your laptop doesn't use an English (US) keyboard
 
 
 The system prompts you to either change the VM keyboard, or accept the default English (US) QWERTY keyboard. Enter `Y` to change the keyboard or `N` to use the default.
@@ -54,7 +54,7 @@ Use the arrow keys to scroll to the desired keyboard layout. `Tab` to the *OK* b
 ![HXE_change_keyboard_process_PNG_2](HXE_change_keyboard_process_PNG_2.png) 
 
 
-### Change time zone
+### Introduction Change time zone
 
 
 Change the time zone if your laptop is not in the default UTC (GMT) time zone.
