@@ -7,7 +7,7 @@ tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 time: 5
 ---
 
-# Set Keyboard and Time Zone Test Green2 upd 222
+# Introduction to Set Keyboard and Time Zone Test Green2 upd 222
 <!-- description --> The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 
 <!-- loiod0775daa77ca4aaea29ea74b3e2e2ac1 -->
