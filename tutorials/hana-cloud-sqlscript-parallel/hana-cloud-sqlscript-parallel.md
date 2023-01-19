@@ -1,7 +1,7 @@
 ---
 parser: v2
-author_name: Rich Heilman
-author_profile: https://github.com/rich-heilman
+author_name: Oleksandra Kovtunenko
+author_profile: https://github.com/Oleksandra2
 primary_tag: products>SAP-Launchpad-service
 tags: [  tutorial>intermediate, products>sap-hana, products>sap-hana-cloud, products>sap-business-application-studio]   
 time: 15
