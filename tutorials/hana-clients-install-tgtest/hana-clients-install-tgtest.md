@@ -5,6 +5,9 @@ auto_validation: true
 time: 10
 primary_tag: programming-tool>devops
 tags: [ tutorial>beginner, programming-tool>internationalization-and-unicode ]
+author_name: Oleksandra Kovtunenko
+author_profile: https://github.com/Oleksandra2
+
 ---
 
 ## Prerequisites
