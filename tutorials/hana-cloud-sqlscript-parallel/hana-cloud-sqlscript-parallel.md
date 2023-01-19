@@ -2,7 +2,7 @@
 parser: v2
 author_name: Oleksandra Kovtunenko
 author_profile: https://github.com/Oleksandra2
-primary_tag: products>SAP-Launchpad-service
+primary_tag: topic>cloud
 tags: [  tutorial>intermediate, products>sap-hana, products>sap-hana-cloud, products>sap-business-application-studio]   
 time: 15
 ---
