@@ -5,6 +5,8 @@ auto_validation: true
 time: 15
 tags: [ tutorial>beginner, software-product-function>sap-hana-cloud\,-sap-hana-database, products>sap-hana, products>sap-hana\,-express-edition, topic>node-js]
 primary_tag: topic>co-innovation-lab
+author_name: Test Test
+author_profile: https://github.com/BigotryOps
 ---
 
 ## Prerequisites
