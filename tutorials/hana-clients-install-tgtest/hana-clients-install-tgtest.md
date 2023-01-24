@@ -3,7 +3,7 @@ title: Install the SAP HANA Client Test Green added new Tutorial to repo_2 upd 3
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
-primary_tag: programming-tool>devop
+primary_tag: programming-tool>devops
 tags: [ tutorial>beginner, programming-tool>internationalization-and-unicode ]
 author_name: Oleksandra Kovtunenko
 author_profile: https://github.com/Oleksandra2
