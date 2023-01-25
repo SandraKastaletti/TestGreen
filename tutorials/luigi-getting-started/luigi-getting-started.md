@@ -6,8 +6,6 @@ tags: [ tutorial>beginner, programming-tool>python]
 primary_tag: products>sap-business-technology-platform
 ---
 
-# Introduction to Luigi Test Green2 UPDATED upd
-<!-- description --> Learn about the basic architecture and terminology of the Luigi micro-frontend framework, and learn what you will build in the next tutorial steps.
 
 ## You will learn
   - What micro-frontends are
@@ -16,7 +14,7 @@ primary_tag: products>sap-business-technology-platform
 
 ---
 
-### What are micro-frontends?
+### Introdaction: What are micro-frontends?
 
 
 Micro-frontends are often called "microservices for the front-end". They allow you to break down large monolith front-ends into independent, scalable, individual parts which work together. Micro-frontend architecture is especially useful for complex products or companies with many teams and can help you create consistent web applications.
