@@ -20,7 +20,7 @@ You'll learn how to start the VM, change the VM default keyboard layout, and cha
 
 ---
 
-### Introduction Start your VM
+### Introduction Start your VM updated
 
 
 Open your hypervisor application.
