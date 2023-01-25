@@ -1,25 +1,24 @@
 {
   "my-tutorials-repo":{
     "name":"notAssatrua"
-    
   },
     "TestGreen":{
-    "name":"Oleksandra2"
+    "name":"Oleksandra2",
     "email":"oleksandra.kovtunenko@sap.com"
   },
     "Tutorials_Alyona":{
     "name":"AlyonSh"
   },
     "TestGreenPopover":{
-    "name":"Oleksandra2"
+    "name":"Oleksandra2",
     "email":"oleksandra.kovtunenko@sap.com"
   },
     "testRepoTG":{
-    "name":"Oleksandra2"
+    "name":"Oleksandra2",
     "email":"oleksandra.kovtunenko@sap.com"
   },
     "TestGreenNew":{
-    "name":"Oleksandra2"
+    "name":"Oleksandra2",
     "email":"oleksandra.kovtunenko@sap.com"
   }
 }
