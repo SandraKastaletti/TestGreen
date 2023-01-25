@@ -16,7 +16,7 @@ primary_tag: products>sap-business-technology-platform
 
 ---
 
-### Introdaction: What are micro-frontends?
+### Introdaction What are micro-frontends?
 
 
 Micro-frontends are often called "microservices for the front-end". They allow you to break down large monolith front-ends into independent, scalable, individual parts which work together. Micro-frontend architecture is especially useful for complex products or companies with many teams and can help you create consistent web applications.
