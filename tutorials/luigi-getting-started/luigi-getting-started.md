@@ -35,7 +35,7 @@ Watch this video which explains the basics of micro-frontend architecture and ho
 
 This diagram portrays the basic architecture of Luigi:
 
-<!-- border; size:100px -->
+<!-- size:600px -->
 ![Luigi architecture](download-flat.png)
 
 
