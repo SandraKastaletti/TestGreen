@@ -22,12 +22,7 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 
  - **Proficiency:** Beginner 
  - **Web IDE** If you do not have the Web IDE open, follow these steps: <!-- test --> [# Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
- - **Tutorials:** This tutorial is part of a series. ### The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials#/hcp-create-destination.html)
-
-
-## Intro
-
-Virtual tables point to data stored in another database.  Federated queries join local and virtual tables.  
+ - **Tutorials:** This tutorial is part of a series. ### The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials#/hcp-create-destination.html) 
 
 
 ### Create package
