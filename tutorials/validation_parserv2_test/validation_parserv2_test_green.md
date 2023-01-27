@@ -28,7 +28,7 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
  - **Tutorials:** This tutorial is part of a series. ### The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials#/hcp-create-destination.html) 
 
 
-### Introduction Create package
+### Introduction: Create package
 
 1. Create a new package for this tutorial, # by choosing **New > ABAP Package**.
 Name your package (my_package#####)
