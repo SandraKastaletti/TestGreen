@@ -32,7 +32,7 @@ Power on (or click *Play* on) your SAP HANA 2.0, express edition VM.
 
 ### Introduce Change the keyboard layout if your laptop doesn't use an English (US) keyboard
 
-<!- size:100px --> ![drivers](sign-check-icon.png) <iframe width="560" height="315" src=https://www.youtube.com/embed/do_UT5NqAO0 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<!-- border; size:100px --> ![drivers](sign-check-icon.png) <iframe width="560" height="315" src=https://www.youtube.com/embed/do_UT5NqAO0 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 The system prompts you to either change the VM keyboard, or accept the default English (US) QWERTY keyboard. Enter `Y` to change the keyboard or `N` to use the default.
 
