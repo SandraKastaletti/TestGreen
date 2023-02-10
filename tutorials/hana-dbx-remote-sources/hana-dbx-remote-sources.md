@@ -2,7 +2,7 @@
 auto_validation: true
 time: 20
 tags: [ tutorial>advanced, topic>big-data, tutorial>community, tutorial>license ]
-primary_tag: topic>ABAP-Development
+primary_tag: topic>ABAP-Developmen
 creator_name: New test
 creator_profile: https://github.com/darkina
  
