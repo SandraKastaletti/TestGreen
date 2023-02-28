@@ -1,6 +1,6 @@
 ---
 parser: v2
-primary_tag: programming-tool>abap-extensibility
+primary_tag: programming-tool>abap-extensibilit
 tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 time: 5
 ---
