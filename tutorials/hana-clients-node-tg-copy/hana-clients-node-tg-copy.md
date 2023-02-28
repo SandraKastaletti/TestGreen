@@ -1,5 +1,5 @@
 ---
-title: Connect Using the SAP HANA Node.js Interface Test Green Pop-over Fourty Five copy
+title: Connect Using the SAP HANA Node.js Interface Test Green Pop-over Fourty Five copy updated
 description: Create and debug a Node.js application that connects to SAP HANA using the SAP HANA client.
 auto_validation: true
 time: 15
