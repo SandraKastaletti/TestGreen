@@ -47,6 +47,7 @@ During the installation, there is no need to check the following box as you do n
 mkdir %HOMEPATH%\HANAClientsTutorial\nodeX509OpenSSL
 cd %HOMEPATH%\HANAClientsTutorial\nodeX509OpenSSL
 ```
+test test
 
 ```Shell (Linux or macOS)
 mkdir $HOME/HANAClientsTutorial/nodeX509OpenSSL
