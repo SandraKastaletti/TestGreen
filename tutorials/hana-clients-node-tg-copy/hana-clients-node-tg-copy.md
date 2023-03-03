@@ -280,6 +280,10 @@ Node.js packages are available using [NPM](https://www.npmjs.com/), which is the
         });
     });
     ```  
+    
+        ```Shell
+    node nodeQuery.js
+    ```
 
 4. Run the app.  
 
