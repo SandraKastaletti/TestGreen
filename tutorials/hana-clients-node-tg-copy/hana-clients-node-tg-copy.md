@@ -43,6 +43,18 @@ During the installation, there is no need to check the following box as you do n
 
 >The SAP HANA client provides a 32-bit and a 64-bit install, as does Node.js.  The Node.js driver provided with the SAP HANA client is available for 64-bit only and supports Node.js versions 8.11.2 and higher.  For additional details see SAP note [3006307 - SAP HANA Client Supported Platforms for 2.7 and higher](https://launchpad.support.sap.com/#/notes/3006307).
 
+```Shell (Microsoft Windows)
+mkdir %HOMEPATH%\HANAClientsTutorial\nodeX509OpenSSL
+cd %HOMEPATH%\HANAClientsTutorial\nodeX509OpenSSL
+```
+
+```Shell (Linux or macOS)
+mkdir $HOME/HANAClientsTutorial/nodeX509OpenSSL
+cd $HOME/HANAClientsTutorial/nodeX509OpenSSL
+```
+
+tttttt
+
 ---
 
 > Another option is to use a docker image that contains [Node.js](https://github.com/nodejs/docker-node#docker-run) as shown below.
