@@ -86,7 +86,7 @@ Node.js packages are available using [NPM](https://www.npmjs.com/), which is the
     mkdir %HOMEPATH%\HANAClientsTutorial\node
     cd %HOMEPATH%\HANAClientsTutorial\node
     ```
-test text
+    
     ```Shell (Linux or Mac)
     mkdir $HOME/HANAClientsTutorial/node
     cd $HOME/HANAClientsTutorial/node
