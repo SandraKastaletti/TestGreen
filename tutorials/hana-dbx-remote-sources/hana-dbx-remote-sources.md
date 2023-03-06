@@ -82,6 +82,8 @@ keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, kokoko
 
 1. In the SAP Cloud Platform Cockpit, add an SAP HANA Data Lake instance to your SAP HANA Cloud instance, if it does not already exist.
 
+>text text text
+
     ![add a SAP HANA Data Lake](add_Data_Lake.png)
 
 2. In a SQL console connected to the HANA Cloud instance, execute the following SQL to create a table named `tourist_reviews` and populate it with a few rows in SAP HANA Data Lake.
