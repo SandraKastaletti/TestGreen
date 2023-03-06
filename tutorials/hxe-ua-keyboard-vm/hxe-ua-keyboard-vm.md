@@ -48,6 +48,16 @@ If you opt to change the keyboard, the System Keyboard Configuration page displa
 
 ![HXE_change_keyboard_GUI_PNG_1](HXE_change_keyboard_GUI_PNG_1.png)
 
+```Shell (Microsoft Windows)
+mkdir %HOMEPATH%\HANAClientsTutorial\nodeX509OpenSSL
+cd %HOMEPATH%\HANAClientsTutorial\nodeX509OpenSSL
+```
+
+```Shell (Linux or macOS)
+mkdir $HOME/HANAClientsTutorial/nodeX509OpenSSL
+cd $HOME/HANAClientsTutorial/nodeX509OpenSSL
+```
+
 Use the arrow keys to scroll to the desired keyboard layout. `Tab` to the *OK* button, or press `F10`, to save your changes. A message displays while the system processes the keyboard layout change.
 
 ![HXE_change_keyboard_process_PNG_2](HXE_change_keyboard_process_PNG_2.png) 
