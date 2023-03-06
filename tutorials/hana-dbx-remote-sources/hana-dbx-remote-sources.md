@@ -26,7 +26,7 @@ keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, kokoko
  - **Proficiency:** Beginner
 2. Execute the following SQL statements to create the `tourist_reviews` table.
 
-    >If needed, first create a schema and user.
+    If needed, first create a schema and user.
     ```SQL
     CREATE SCHEMA HOTEL;
     CREATE USER USER1 PASSWORD Password1 no force_first_password_change;
