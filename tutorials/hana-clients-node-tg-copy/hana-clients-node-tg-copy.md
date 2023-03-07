@@ -55,6 +55,16 @@ During the installation, there is no need to check the following box as you do n
 
 tttttt
 
+    ```Shell (Microsoft Windows)
+    mkdir %HOMEPATH%\HANAClientsTutorial\node
+    cd %HOMEPATH%\HANAClientsTutorial\node
+    ```
+    
+    ```Shell (Linux or Mac)
+    mkdir $HOME/HANAClientsTutorial/node
+    cd $HOME/HANAClientsTutorial/node
+    ```
+
 ---
 
 > Another option is to use a docker image that contains [Node.js](https://github.com/nodejs/docker-node#docker-run) as shown below.
