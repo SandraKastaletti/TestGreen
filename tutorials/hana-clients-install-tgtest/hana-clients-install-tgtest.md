@@ -4,7 +4,7 @@ description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
 primary_tag: programming-tool>devops
-tags: [ tutorial>beginner, programming-tool>internationalization-and-unicode ]
+tags: [ tutorial>beginner, programming-tool>internationalization-and-unicode, developers-test>tagl6 ]
 author_name: Oleksandra Kovtunenko
 author_profile: https://github.com/Oleksandra2
 
