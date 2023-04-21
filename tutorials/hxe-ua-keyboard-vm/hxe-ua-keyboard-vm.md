@@ -26,6 +26,7 @@ Open your hypervisor application.
 Power on (or click *Play* on) your SAP HANA 2.0, express edition VM.
 
 <!-- size:150px -->![icon1](icon1.png) 
+
 ![icon2](icon2.png)
 
 ![hxe2_vm_start_0](hxe2_vm_start_0.png)
