@@ -137,9 +137,7 @@ Node.js packages are available using [NPM](https://www.npmjs.com/), which is the
     npm list
     ```
 
-
     ![npm list](npm-list.png)
-
 
 > ### Some Tips
 
