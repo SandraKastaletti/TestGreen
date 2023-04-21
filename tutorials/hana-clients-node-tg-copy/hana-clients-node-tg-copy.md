@@ -6,7 +6,7 @@ time: 15
 tags: [ tutorial>beginner, topic>node-js]
 primary_tag: topic>co-innovation-lab
 primary_tag: programming-tool>abap-extensibility
-tags: [ tutorial>beginner, products>sap-hana\,-express-edition, developers-test>tag2 ]
+tags: [ tutorial>beginner, products>sap-hana\,-express-edition ]
 author_name: Test Test
 author_profile: https://github.com/BigotryOps
 ---
