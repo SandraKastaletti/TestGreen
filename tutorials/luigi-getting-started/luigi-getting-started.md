@@ -147,6 +147,7 @@ This diagram portrays the basic architecture of Luigi:
     INSERT INTO HOTEL.ROOM VALUES(11, 'connecting room', 15, 175.00);
     end;
     ```
+    
     >
     ```SQL
     set temporary option auto_commit= 'off';
