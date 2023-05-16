@@ -157,7 +157,7 @@ This diagram portrays the basic architecture of Luigi:
    
     Autocommit can also be set via the connection settings dialog.
     
-    ![autocommit setting](autocommit.png)
+    ![autocommit setting](architecture.png)
 
 2. Notice that pressing ctrl-space brings up auto complete (GUI mode only).
 
