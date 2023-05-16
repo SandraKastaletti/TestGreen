@@ -147,17 +147,18 @@ This diagram portrays the basic architecture of Luigi:
     INSERT INTO HOTEL.ROOM VALUES(11, 'garden view', 13, 190.00);
     INSERT INTO HOTEL.ROOM VALUES(11, 'connecting room', 15, 175.00);
     end;
-    ```
+    >```
     >
-    ```SQL
+    >```SQL
     set temporary option auto_commit= 'off';
     INSERT INTO HOTEL.ROOM VALUES(11, 'triple', 7, 235.00);
     INSERT INTO HOTEL.ROOM VALUES(11, 'quad', 5, 275.00);
     set temporary option auto_commit= 'on';
-    ```
+    >```
     >
     >Autocommit can also be set via the connection settings dialog.
     >
+
     >![autocommit setting](architecture.png)
 
 2. Notice that pressing ctrl-space brings up auto complete (GUI mode only).
