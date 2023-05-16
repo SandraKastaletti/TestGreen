@@ -141,25 +141,21 @@ This diagram portrays the basic architecture of Luigi:
 
     >Autocommit is set to on in the SQL Console of the database explorer, while in DBISQL it is set to off.  A series of insert statements will run quicker in the SQL Console if they are surrounded with begin and end or if autocommit is set to off.
     
-    >
+ >
     ```SQL
     begin
     INSERT INTO HOTEL.ROOM VALUES(11, 'garden view', 13, 190.00);
     INSERT INTO HOTEL.ROOM VALUES(11, 'connecting room', 15, 175.00);
     end;
-    >```
+    ```
     >
-    >```SQL
+    ```SQL
     set temporary option auto_commit= 'off';
     INSERT INTO HOTEL.ROOM VALUES(11, 'triple', 7, 235.00);
     INSERT INTO HOTEL.ROOM VALUES(11, 'quad', 5, 275.00);
     set temporary option auto_commit= 'on';
-    >```
+    ```
     >
-    >Autocommit can also be set via the connection settings dialog.
-    >
-
-    >![autocommit setting](architecture.png)
 
 2. Notice that pressing ctrl-space brings up auto complete (GUI mode only).
 
