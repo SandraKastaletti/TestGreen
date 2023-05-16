@@ -140,15 +140,14 @@ This diagram portrays the basic architecture of Luigi:
     Additional details on the SQL used above can be found at [INSERT Statement for Data Lake Relational Engine](https://urldefense.com/v3/__https://help.sap.com/viewer/19b3964099384f178ad08f2d348232a9/latest/en-US/a61fdeff84f21015aa66b9add387d7f9.html__;!!GF_29dbcQIUBPA!3-VGFthfLzox1V6QHvLyMpJH64RtcqU-Eouowl25Y9BFMo6d1FKf_CKiAj8866Ac9_PtxCoS_TAavxoj127uobst$ [help[.]sap[.]com]). Moreover, the [LOAD TABLE Statement for Data Lake Relational Engine](https://urldefense.com/v3/__https://help.sap.com/viewer/19b3964099384f178ad08f2d348232a9/latest/en-US/7ca3f60902f3473296cb309533d89210.html__;!!GF_29dbcQIUBPA!3-VGFthfLzox1V6QHvLyMpJH64RtcqU-Eouowl25Y9BFMo6d1FKf_CKiAj8866Ac9_PtxCoS_TAavxoj16KCGaqD$ [help[.]sap[.]com]) can be used for efficient mass insertion into a database table from a file with ASCII or binary data.
 
     >Autocommit is set to on in the SQL Console of the database explorer, while in DBISQL it is set to off.  A series of insert statements will run quicker in the SQL Console if they are surrounded with begin and end or if autocommit is set to off.
-    
- >
+    >
     ```SQL
     begin
     INSERT INTO HOTEL.ROOM VALUES(11, 'garden view', 13, 190.00);
     INSERT INTO HOTEL.ROOM VALUES(11, 'connecting room', 15, 175.00);
     end;
     ```
-
+    >
     ```SQL
     set temporary option auto_commit= 'off';
     INSERT INTO HOTEL.ROOM VALUES(11, 'triple', 7, 235.00);
@@ -156,6 +155,9 @@ This diagram portrays the basic architecture of Luigi:
     set temporary option auto_commit= 'on';
     ```
     >
+    >Autocommit can also be set via the connection settings dialog.
+    >
+    >![autocommit setting](autocommit.png)
 
 2. Notice that pressing ctrl-space brings up auto complete (GUI mode only).
 
