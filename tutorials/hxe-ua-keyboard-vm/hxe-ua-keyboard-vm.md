@@ -11,8 +11,11 @@ primary_tag: software-product>sap-btp--abap-environment
 <!-- description --> Create business roles, assign them to business users and configure data for business configurations
 
 ## You will learn
+
 - How to create business users in the consumer tenant and manage business configuration entries
+- 
 ---
+
 ### Create business roles for the custom application
 
 Navigate to the Maintain Business Roles application in the Fiori Launchpad of the consumer tenant as initial administrator user.
