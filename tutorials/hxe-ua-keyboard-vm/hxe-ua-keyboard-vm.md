@@ -242,6 +242,7 @@ The data lake client install includes [dbisql Interactive SQL Utility](https://u
     >
     >![autocommit setting](hxe2_vm_start_0.png)
 
+
 2. Notice that pressing ctrl-space brings up auto complete (GUI mode only).
 
     ![auto complete](hxe2_vm_start_0.png)
