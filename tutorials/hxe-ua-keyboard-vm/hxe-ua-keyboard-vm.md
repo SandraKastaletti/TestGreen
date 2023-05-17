@@ -230,8 +230,7 @@ The data lake client install includes [dbisql Interactive SQL Utility](https://u
     INSERT INTO HOTEL.ROOM VALUES(11, 'connecting room', 15, 175.00);
     end;
     >```
-    >Test text
-    >
+
     >```SQL
     set temporary option auto_commit= 'off';
     INSERT INTO HOTEL.ROOM VALUES(11, 'triple', 7, 235.00);
