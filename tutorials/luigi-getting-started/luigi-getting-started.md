@@ -192,7 +192,7 @@ This diagram portrays the basic architecture of Luigi:
 
 The users with assigned  SAP\_BR\_BPC\_EXPERT role should now be able to see the applications under the "Business Configuration" group of the Fiori Launchpad,
 
-![Business Configuration](BusinessConfig.png)
+![Business Configuration](architecture.png)
 
 [OPTION BEGIN [Maintain Business Configurations]]
 
