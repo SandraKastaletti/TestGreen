@@ -186,5 +186,36 @@ This diagram portrays the basic architecture of Luigi:
     ![DBISQL in batch mode](dbisql-batch.png)
 
     See [Connection Parameters](https://urldefense.com/v3/__https://help.sap.com/viewer/a895964984f210158925ce02750eb580/latest/en-US/a6d47d6e84f210158d4980b069eff5dd.html__;!!GF_29dbcQIUBPA!3-VGFthfLzox1V6QHvLyMpJH64RtcqU-Eouowl25Y9BFMo6d1FKf_CKiAj8866Ac9_PtxCoS_TAavxoj109mxPGs$ [help[.]sap[.]com]) for additional documentation on the parameters used to connect.
+    
+    
+    ### Maintain Business Configurations
+
+The users with assigned  SAP\_BR\_BPC\_EXPERT role should now be able to see the applications under the "Business Configuration" group of the Fiori Launchpad,
+
+![Business Configuration](BusinessConfig.png)
+
+[OPTION BEGIN [Maintain Business Configurations]]
+
+The "Custom Business Configurations app" can be used to maintain data for configuration tables in the SaaS application if a business configuration maintenance object is registered. Refer [documentation](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/508d406ac92043dba95f694144803c26.html?locale=en-US) for more details
+
+[OPTION END]
+
+[OPTION BEGIN [Upload Business Configuration]]
+
+The "Upload Business Configuration" app can be used to upload data via excel import for various configuration tables of the SaaS application
+
+    1. Open the "Upload Business Configuration" app.
+
+    2. Use the value help to select the object for which data has to be maintained
+
+    3. Under the "Upload File" section, download the file template
+
+    4. Fill in the downloaded template with suitable data conforming to the provided template
+
+    5. Add attachment, review the data and confirm deployment 
+
+![Upload Business Configuration](UploadBC.png)
+
+[OPTION END]
 
 ---
