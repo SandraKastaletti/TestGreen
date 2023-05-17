@@ -214,7 +214,7 @@ The "Upload Business Configuration" app can be used to upload data via excel imp
 
     5. Add attachment, review the data and confirm deployment 
 
-![Upload Business Configuration](UploadBC.png)
+![Upload Business Configuration](architecture.png)
 
 [OPTION END]
 
