@@ -104,7 +104,7 @@ The data lake client install includes [dbisql Interactive SQL Utility](https://u
     >
     > A failure to connect could be caused by the allowed connections list, which is editable in SAP HANA Cloud Central.  
 
-    ![DBISQL Connected](dbisql-connected.png)
+    ![DBISQL Connected](dbisql-connection-type.png)
 
     >DBISQL can also be started without a GUI.
     >
@@ -118,7 +118,7 @@ The data lake client install includes [dbisql Interactive SQL Utility](https://u
     dbisql -c 'uid=USER1;pwd=Password1;host=XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX.iq.hdl.trial-XXXX.hanacloud.ondemand.com:443;ENC=TLS(tls_type=rsa;direct=yes)' -nogui
     >```
 
-    >![DBISQL connected nogui](dbisql-nogui.png)
+    >![DBISQL connected nogui](dbisql-connection-type.png)
 
 
 ### Insert data with Interactive SQL Client (DBISQL)
@@ -240,11 +240,11 @@ The data lake client install includes [dbisql Interactive SQL Utility](https://u
     >
     >Autocommit can also be set via the connection settings dialog.
     >
-    >![autocommit setting](autocommit.png)
+    >![autocommit setting](dbisql-start-1.png)
 
 2. Notice that pressing ctrl-space brings up auto complete (GUI mode only).
 
-    ![auto complete](show-reservations.png)
+    ![auto complete](dbisql-connection-type.png)
 
     Query a table, a view, invoke a function, and call a stored procedure.
 
