@@ -139,3 +139,5 @@ The "Upload Business Configuration" app can be used to upload data via excel imp
 ![Upload Business Configuration](UploadBC.png)
 
 [OPTION END]
+
+### Test yourself
