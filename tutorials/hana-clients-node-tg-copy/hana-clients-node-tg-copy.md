@@ -25,7 +25,7 @@ Node.js provides a JavaScript runtime outside of the browser and uses an asynchr
 
 [ACCORDION-BEGIN [Step 1: ](Install Node.js)]
 
-Ensure you have Node.js installed and check its version. Enter the following command:
+Ensure you have Node.js installed and check its version. Enter the following command: changed 
 
 ```Shell
 node -v  
