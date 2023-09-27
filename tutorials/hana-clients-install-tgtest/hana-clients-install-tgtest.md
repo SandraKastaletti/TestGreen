@@ -1,6 +1,6 @@
 ---
 title: Install the - SAP HANA11 Client Test Green added new Tutorial + contributor
-description: Learn about the multiple ways to install the SAP HANA client.
+description: Learn about the multiple ways to install the SAP HANA client.r
 auto_validation: true
 time: 10
 primary_tag: programming-tool>devops
