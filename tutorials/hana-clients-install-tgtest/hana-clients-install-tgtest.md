@@ -18,8 +18,6 @@ author_profile: https://github.com/Oleksandra2
   - How to install the SAP HANA client
   - The two locations where SAP HANA client installs can be downloaded from
 
-This tutorial will demonstrate how to install the SAP HANA client.  The next tutorial in this mission will demonstrate how to use HDBSQL, which is a command line utility included with the client's installation, to connect to SAP HANA.  The tutorials  cover Microsoft Windows, Linux and Mac.  If there are commands that are different depending on the platform, multiple sets of commands will be provided and the title will say Shell (Microsoft Windows) or Shell (Linux or Mac).  Note that on Microsoft Windows, the shell used is the Command Prompt.
-
 ---
 
 [ACCORDION-BEGIN [Step 1: ](The SAP HANA: Client Test)]
