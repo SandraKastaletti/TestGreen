@@ -40,7 +40,7 @@ The SAP HANA client can be used to connect to different versions of SAP HANA.  F
 [ACCORDION-BEGIN [Step 2: ](Install from SAP Development Tools)]
 
 1. Download the client installer for your platform (Microsoft Windows, Linux, or Mac) from the [SAP Development Tools](https://tools.hana.ondemand.com/#hanatools) website under the HANA tab and the SAP HANA Client 2.0 section.
->An alternate location to download the client installer (SAP Software Downloads) is described in step 3 which includes the SAP Common Crypto library and additional platforms such as Windows 32-bit and AIX.  
+>An alternate location to download the client installer (SAP Software Downloads) is described in step 3 which includes the SAP Common Crypto library and additionalgg platforms such as Windows 32-bit and AIX.  
 
     ![Client Download](Client-install.png)
 
