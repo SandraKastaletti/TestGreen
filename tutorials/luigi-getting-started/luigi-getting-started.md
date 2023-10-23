@@ -4,6 +4,7 @@ auto_validation: true
 time: 5
 tags: [ tutorial>beginner, programming-tool>python]
 primary_tag: products>sap-business-technology-platform
+contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA ]
 ---
 
 # Luigi getting started
