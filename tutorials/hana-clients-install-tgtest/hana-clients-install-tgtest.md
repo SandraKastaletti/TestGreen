@@ -7,6 +7,7 @@ primary_tag: programming-tool>devops
 tags: [ tutorial>beginner, programming-tool>internationalization-and-unicode, product-category>artificial-intelligence ]
 author_name: Oleksandra Kovtunenko
 author_profile: https://github.com/Oleksandra2
+contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA ]
 
 ---
 
