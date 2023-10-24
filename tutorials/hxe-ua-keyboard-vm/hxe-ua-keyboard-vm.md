@@ -14,8 +14,6 @@ contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA, Test Test > ht
 ## You will learn
 
 - How to create business users in the consumer tenant and manage business configuration entries
-- 
----
 
 ### Create business roles for the custom application
 
