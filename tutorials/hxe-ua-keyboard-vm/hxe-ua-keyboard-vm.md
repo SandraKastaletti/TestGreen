@@ -9,7 +9,7 @@ contributors: [ Test Test > https://github.com/BigotryOps]
 
 # Create business users, configure roles and business configurations
 
-<!-- description --> Create business roles, assign them to business users and configure data for business configurations
+<!-- description --> Create business roles, assign them to business users and configure data for business configurations f
 
 ## You will learn
 
